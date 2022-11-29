@@ -16,8 +16,6 @@ body {
 }
 .fempack {
     text-align: left;
-    border-color: aliceblue;
-    border-radius: 5px;
-    border-width: 5px;
+    background-color: rgb(21, 26, 26;
     color: aquamarine;
 }
