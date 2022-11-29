@@ -12,5 +12,12 @@ body {
 }
 .filler {
     color: aquamarine;
-    text-align: center;
+    text-align: left;
+}
+.fempack {
+    text-align: left;
+    border-color: aliceblue;
+    border-radius: 5px;
+    border-width: 5px;
+    color: aquamarine;
 }
