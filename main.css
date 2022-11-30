@@ -19,3 +19,8 @@ body {
     text-align: left;
     color: aquamarine;
 }
+.container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    
+}
