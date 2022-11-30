@@ -9,5 +9,5 @@ div::not(class) {
     color: rgb(255, 215, 250);
 }
 :root {
-    --bs-body-bg: rgb(20, 20, 20);
+    --bs-body-bg: rgb(161, 161, 161);
 }
