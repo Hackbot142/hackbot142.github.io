@@ -4,6 +4,7 @@
     padding-bottom: 6px;
     background-color: rgb(20, 20, 20);
     margin-bottom: 1%;
+    color: antiquewhite;
 }
 div::not(class) {
     color: rgb(255, 215, 250);
