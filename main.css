@@ -9,10 +9,3 @@ html {
     background-color: rgb(20, 20, 20);
     margin-bottom: 1%;
 }
-.bottom-container {
-    display: flex;
-    flex-wrap: wrap;
-    background-color: rgb(63, 60, 60);
-    color: rgb(255, 215, 250);
-    text-align: left;
-}
