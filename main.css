@@ -8,9 +8,9 @@ html {
     background-color: rgb(20, 20, 20);
     margin-bottom: 1%;
 }
-p {
-    color: rgb(255, 215, 250);
-}
-.container {
+div::not(class) {
+    outline: 1px;
+    outline: violet;
     background-color: rgb(46, 46, 46);
+    color: rgb(255, 215, 250);
 }
