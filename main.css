@@ -9,7 +9,7 @@ body {
     margin-bottom: 1%;
 }
 div::not(class) {
-    outline: 1px;
+    outline: 30px;
     outline: violet;
     background-color: rgb(46, 46, 46);
     color: rgb(255, 215, 250);
