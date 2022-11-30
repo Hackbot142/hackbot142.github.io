@@ -5,7 +5,9 @@ html {
     text-align: center;
     padding-top: 6px;
     padding-bottom: 6px;
-    color: rgb(255, 215, 250);
     background-color: rgb(20, 20, 20);
     margin-bottom: 1%;
+}
+p {
+    color: rgb(255, 215, 250);
 }
