@@ -15,7 +15,7 @@ html {
 }
 .fempack {
     text-align: left;
-    color: aquamarine;
+    color: rgb(255, 215, 250);
 }
 .bottom-container {
     display: flex;
