@@ -9,16 +9,10 @@ html {
     background-color: rgb(38, 22, 41);
     margin-bottom: 1%;
 }
-.filler {
-    color: rgb(255, 215, 250);
-    text-align: left;
-}
-.fempack {
-    text-align: left;
-    color: rgb(255, 215, 250);
-}
 .bottom-container {
     display: flex;
     flex-wrap: wrap;
     background-color: rgb(63, 60, 60);
+    color: rgb(255, 215, 250);
+    text-align: left;
 }
