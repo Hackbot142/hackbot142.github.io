@@ -19,7 +19,7 @@ body {
     text-align: left;
     color: aquamarine;
 }
-.container {
+.bottom-container {
     display: flex;
     flex-wrap: wrap;
     background-color: rgb(63, 60, 60);
