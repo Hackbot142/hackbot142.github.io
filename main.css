@@ -22,4 +22,5 @@ body {
 .container {
     display: flex;
     flex-wrap: wrap;
+    background-color: rgb(63, 60, 60);
 }
