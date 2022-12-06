@@ -35,11 +35,13 @@
   ul {
     display: flex;
     flex-wrap: wrap;
+    list-style: none;
   }
   
   li {
     height: 40vh;
     flex-grow: 1;
+    list-style: none;
   }
   
   img {
