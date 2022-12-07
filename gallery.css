@@ -1,0 +1,19 @@
+ul {
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+  }
+  
+  li {
+    height: 40vh;
+    flex-grow: 1;
+    list-style-type: none;
+  }
+  
+  img {
+    max-height: 100%;
+    min-width: 100%;
+    object-fit: cover;
+    vertical-align: bottom;
+  }
+  
