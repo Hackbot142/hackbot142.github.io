@@ -3,16 +3,18 @@
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="/main.css">
+    <link rel="scripts" href="/scripts/navbar.js">
 </head>
 <body>
-    <nav class="col-1">
+    <nav id="mySidebar" class="sidebar">
+        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">×</a>
         <a href="/index.html"><p>Home</p></a>
         <a href="/pages/projects.html"><p>Projects</p></a>
         <a href="/pages/wife.html"><p>Wife</p></a>
         <a href="/pages/about.html"><p>About</p></a>
     </nav>
   <div class="col-2">
-  	<header><h1>Hackbot142</h1></header>
+  	<header><button class="openbtn" onclick="openNav()">☰ Nav </button><h1>Hackbot142</h1></header>
     <main class="content">
         <article>page for hackbot142 personal site</article>
     </main>
