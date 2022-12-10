@@ -15,11 +15,12 @@
 .img-box {
   box-sizing: content-box;
   margin: 10px;
-  height: 100%;
-  width: 100%;
+  height: 250px;
+  width: 350px;
   overflow: hidden;
   display: inline-block;
+  object-fit: cover;
   color: white;
   position: relative;
-  background-color: white;
+  background-color: rgb(188,213,235);
 }
