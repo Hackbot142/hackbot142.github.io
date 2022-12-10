@@ -8,7 +8,7 @@
     margin: 0;
   }
   .col-1 {
-    background: #4b4a4b;
+    background: rgb(81,61,103);
     flex: 1;
   }
   .col-2 {
@@ -26,7 +26,7 @@
     min-height: 60vh;
   }
   header, footer {
-    background: rgb(41, 38, 41);
+    background: rgb(46,40,77);
     height: 20vh;
     color: violet;
   }
