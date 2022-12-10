@@ -27,3 +27,6 @@
 img {
   object-fit: cover;
 }
+p {
+  text-align: center;
+}
