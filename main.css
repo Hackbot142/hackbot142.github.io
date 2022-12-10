@@ -8,7 +8,7 @@
     margin: 0;
   }
   .col-1 {
-    background: rgb(81,61,103);
+    background: rgb(46,40,77);
     flex: 1;
   }
   .col-2 {
@@ -26,7 +26,7 @@
     min-height: 60vh;
   }
   header, footer {
-    background: rgb(46,40,77);
+    background: rgb(44,24,50);
     height: 20vh;
     color: rgb(184,78,123);
   }
@@ -48,5 +48,5 @@ main > article > p > a :hover {
   color: rgb(62,165,233);
 }
 article {
-  background-color: rgb(188,213,235);
+  background-color: rgb(70,73,117);
 }
