@@ -1,38 +1,25 @@
-.gallery {
-  width: 640px;
-  margin: 0 auto;
-  padding: 5px;
-  background: #fff;
-  box-shadow: 0 1px 1px rgba(0,0,0,.1);
+.gallery-image {
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
-.gallery > div {
+.gallery-image img {
+  height: 250px;
+  width: 350px;
+  transform: scale(1.0);
+  transition: transform 0.4s ease;
+}
+
+.img-box {
+  box-sizing: content-box;
+  margin: 10px;
+  height: 250px;
+  width: 350px;
+  overflow: hidden;
+  display: inline-block;
+  color: white;
   position: relative;
-  float: left;
-  padding: 5px;
-}
-
-.gallery > div > img {
-  width: 200px;
-  transition: .1s transform;
-  transform: translateZ(0); /* hack */
-}
-
-.gallery > div:hover {
-  z-index: 1;
-}
-
-.gallery > div:hover > img {
-  transform: scale(1.8,1.8);
-  transition: .3s transform;
-}
-
-.cf:before, .cf:after {
-  display: table;
-  content: "";
-  line-height: 0;
-}
-
-.cf:after {
-  clear: both;
+  background-color: white;
 }
