@@ -27,7 +27,7 @@
   }
   header, footer {
     background: rgb(41, 38, 41);
-    height: 15vh;
+    height: 20vh;
     color: violet;
   }
   header, footer, article, nav {
