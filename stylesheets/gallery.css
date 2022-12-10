@@ -27,6 +27,6 @@
 img {
   object-fit: cover;
 }
-p {
+.note {
   text-align: center;
 }
