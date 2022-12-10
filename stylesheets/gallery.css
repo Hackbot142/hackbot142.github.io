@@ -19,9 +19,11 @@
   width: 350px;
   overflow: hidden;
   display: inline-block;
-  object-fit: cover;
   color: white;
   position: relative;
   background-color: rgb(188,213,235);
   border-radius: 5px;
+}
+img {
+  object-fit: cover;
 }
