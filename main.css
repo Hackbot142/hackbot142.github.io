@@ -33,13 +33,17 @@
   header, footer, article, nav {
     padding: 1em;
   }
-a {
+nav > a {
     text-decoration: none;
-    color: violet;
+    color: blueviolet;
 }
-a :hover {
-  color: aqua;
+nav > a :hover {
+  color: violet;
 }
-a :visited {
-  color: darkviolet;
+article > a {
+  text-decoration: none;
+  color: blueviolet;
+}
+article > a :hover {
+  color: violet;
 }
