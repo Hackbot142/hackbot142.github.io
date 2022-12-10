@@ -27,6 +27,7 @@
   header, footer {
     background: rgb(41, 38, 41);
     height: 15vh;
+    color: violet;
   }
   header, footer, article, nav {
     padding: 1em;
