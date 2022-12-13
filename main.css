@@ -50,3 +50,6 @@ main > article > p > a :hover {
 article {
   background-color: rgb(70,73,117);
 }
+article > p {
+  color: rgb(237,128,166);
+}
